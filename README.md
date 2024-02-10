@@ -1,7 +1,5 @@
 # Basic-statistics_level-1
-
-</h1>****Theory of probability****</h1>
-</br>
+**Theory of probability**</br>
 Probability is numerical measure which indicates the chance of occurrence.
 
 **Empirical Approach**</br>
